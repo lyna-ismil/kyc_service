@@ -343,6 +343,4 @@ All models are **lazily loaded** on first request and cached in module-level glo
 
 ---
 
-## License
 
-[Your License Here]
